@@ -22,7 +22,7 @@ body {
 }
 .container {
   background-color: #00000088;
-  width: 80vmin;
+  width: 90vmin;
   position: absolute;
   transform: translate(-50%, -50%);
   top: 50%;
