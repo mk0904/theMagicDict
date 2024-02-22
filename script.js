@@ -32,7 +32,7 @@ btn.addEventListener("click", () => {
                 </p>`;
                 sound.setAttribute("src", data[0].phonetics[0].audio);
             } else {
-                result.innerHTML = `<h3 class="error">Bhai mujhe toh nhi aata tujhe pata hai toh bata de...</h3>`;
+                result.innerHTML = `<h3 class=error"">Bhai mujhe toh nhi aata tujhe pata hai toh bata de...</h3>`;
             }
         })
         .catch((error) => {

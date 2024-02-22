@@ -90,8 +90,8 @@ body {
   margin-top: 30px;
 }
 
-.error {
+.result .error {
   margin-top: 80px;
-  font-size: 10px;
+  font-size: 18px;
   text-align: center;
 }
